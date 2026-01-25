@@ -36,9 +36,6 @@ Convertirme en profesional de ciberseguridad especializado en *seguridad web*, c
 - DVWA (Damn Vulnerable Web Application)
 - TryHackMe
 
-## 📈 Meta
-Conseguir trabajo como *Junior Penetration Tester* en 9-12 meses.
-
 ---
 
 *Fecha de inicio:* 22 de enero, 2026  
