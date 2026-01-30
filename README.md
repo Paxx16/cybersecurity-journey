@@ -1,6 +1,6 @@
 # Cybersecurity Portfolio / Portafolio de Ciberseguridad
 
-## [ENGLISH]
+
 
 ### About This Repository
 This repository documents my journey to becoming a web security professional. It contains practical labs, vulnerability writeups, and technical documentation demonstrating hands-on experience with real-world security vulnerabilities.
@@ -49,7 +49,7 @@ This repository documents my journey to becoming a web security professional. It
 
 ---
 
-## [ESPANOL]
+
 
 ### Acerca de Este Repositorio
 Este repositorio documenta mi camino para convertirme en profesional de seguridad web. Contiene laboratorios practicos, reportes de vulnerabilidades y documentacion tecnica que demuestra experiencia practica con vulnerabilidades de seguridad del mundo real.
