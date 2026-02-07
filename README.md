@@ -1,7 +1,5 @@
 # Cybersecurity Portfolio / Portafolio de Ciberseguridad
 
-
-
 ### About This Repository
 This repository documents my journey to becoming a web security professional. It contains practical labs, vulnerability writeups, and technical documentation demonstrating hands-on experience with real-world security vulnerabilities.
 
@@ -20,6 +18,7 @@ This repository documents my journey to becoming a web security professional. It
 | 3 | Command Injection | Remote Code Execution, System Enumeration | Completed |
 | 4 | PortSwigger Labs | SQLi, XSS, OS Command Injection (6 labs) | Completed |
 | 5 | PortSwigger Labs | CSRF, Path Traversal, Access Control (6 labs) | Completed |
+| 6 | PortSwigger Labs | Authentication, Business Logic, Info Disclosure (6 labs) | Completed |
 
 ### Technical Writeups
 
@@ -28,8 +27,9 @@ This repository documents my journey to becoming a web security professional. It
 | SQL Injection | dvwa_sqli_explotacion_completa.md | ES/EN |
 | Cross-Site Scripting | dvwa_xss_session_hijacking.md | ES/EN |
 | Command Injection | dvwa_command_injection.md | ES/EN |
-| PortSwigger | portswigger_labs.md | ES/EN |
-| PortSwigger | portswigger_labs.md | ES/EN |
+| SQLi, XSS, Command Injection | portswigger_sqli_xss_cmdi.md | ES/EN |
+| CSRF, Path Traversal, Access Control | portswigger_csrf_traversal_access.md | ES/EN |
+| Authentication, Business Logic, Info Disclosure | portswigger_auth_logic_disclosure.md | ES/EN |
 
 ### Tools and Technologies
 - Operating System: Parrot OS
@@ -39,17 +39,16 @@ This repository documents my journey to becoming a web security professional. It
 - Other: Nmap, SQLMap, John the Ripper, CrackStation
 
 ### Certifications (In Progress)
+- Burp Suite Certified Practitioner (BSCP)
 - PortSwigger Web Security Academy
 - TryHackMe Learning Paths
-- HackTheBox Academy
 
 ### Contact
 - GitHub: github.com/Paxx16
-- LinkedIn:
+- LinkedIn: linkedin.com/in/francisco-escalante-cybersec
+- Email: fco.escalanted@gmail.com
 
 ---
-
-
 
 ### Acerca de Este Repositorio
 Este repositorio documenta mi camino para convertirme en profesional de seguridad web. Contiene laboratorios practicos, reportes de vulnerabilidades y documentacion tecnica que demuestra experiencia practica con vulnerabilidades de seguridad del mundo real.
@@ -69,6 +68,7 @@ Este repositorio documenta mi camino para convertirme en profesional de segurida
 | 3 | Inyeccion de Comandos | Ejecucion Remota de Codigo, Enumeracion de Sistema | Completado |
 | 4 | Labs PortSwigger | SQLi, XSS, Inyeccion de Comandos (6 labs) | Completado |
 | 5 | Labs PortSwigger | CSRF, Path Traversal, Control de Acceso (6 labs) | Completado |
+| 6 | Labs PortSwigger | Autenticacion, Logica de Negocio, Divulgacion de Info (6 labs) | Completado |
 
 ### Reportes Tecnicos
 
@@ -77,8 +77,9 @@ Este repositorio documenta mi camino para convertirme en profesional de segurida
 | Inyeccion SQL | dvwa_sqli_explotacion_completa.md | ES/EN |
 | Cross-Site Scripting | dvwa_xss_session_hijacking.md | ES/EN |
 | Inyeccion de Comandos | dvwa_command_injection.md | ES/EN |
-| PortSwigger  | portswigger_labs.md | ES/EN |
-| PortSwigger  | portswigger_labs.md | ES/EN |
+| SQLi, XSS, Inyeccion de Comandos | portswigger_sqli_xss_cmdi.md | ES/EN |
+| CSRF, Path Traversal, Control de Acceso | portswigger_csrf_traversal_access.md | ES/EN |
+| Autenticacion, Logica de Negocio, Divulgacion de Info | portswigger_auth_logic_disclosure.md | ES/EN |
 
 ### Herramientas y Tecnologias
 - Sistema Operativo: Parrot OS
@@ -88,14 +89,14 @@ Este repositorio documenta mi camino para convertirme en profesional de segurida
 - Otros: Nmap, SQLMap, John the Ripper, CrackStation
 
 ### Certificaciones (En Progreso)
+- Burp Suite Certified Practitioner (BSCP)
 - PortSwigger Web Security Academy
 - TryHackMe Learning Paths
-- HackTheBox Academy
 
 ### Contacto
 - GitHub: github.com/Paxx16
-- LinkedIn: 
+- LinkedIn: linkedin.com/in/francisco-escalante-cybersec
+- Email: fco.escalanted@gmail.com
 
 ---
-
-**Last Update / Ultima Actualizacion:** January 27, 2026 / 27 de Enero, 2026
+**Last Update / Ultima Actualizacion:** February 7, 2026 / 7 de Febrero, 2026
